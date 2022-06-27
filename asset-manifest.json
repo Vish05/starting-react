@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Vish05/starting-react/static/css/main.073c9b0a.css",
+    "main.js": "/Vish05/starting-react/static/js/main.aae8e1bf.js",
+    "static/js/787.294c790e.chunk.js": "/Vish05/starting-react/static/js/787.294c790e.chunk.js",
+    "static/media/logo.svg": "/Vish05/starting-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Vish05/starting-react/index.html",
+    "main.073c9b0a.css.map": "/Vish05/starting-react/static/css/main.073c9b0a.css.map",
+    "main.aae8e1bf.js.map": "/Vish05/starting-react/static/js/main.aae8e1bf.js.map",
+    "787.294c790e.chunk.js.map": "/Vish05/starting-react/static/js/787.294c790e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.aae8e1bf.js"
+  ]
+}
