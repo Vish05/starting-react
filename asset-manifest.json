@@ -1,16 +1,16 @@
 {
-  "files": {
-    "main.css": "/Vish05/starting-react/static/css/main.073c9b0a.css",
-    "main.js": "/Vish05/starting-react/static/js/main.aae8e1bf.js",
-    "static/js/787.294c790e.chunk.js": "/Vish05/starting-react/static/js/787.294c790e.chunk.js",
-    "static/media/logo.svg": "/Vish05/starting-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/Vish05/starting-react/index.html",
-    "main.073c9b0a.css.map": "/Vish05/starting-react/static/css/main.073c9b0a.css.map",
-    "main.aae8e1bf.js.map": "/Vish05/starting-react/static/js/main.aae8e1bf.js.map",
-    "787.294c790e.chunk.js.map": "/Vish05/starting-react/static/js/787.294c790e.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.aae8e1bf.js"
-  ]
+  "main.css": "/Vish05/starting-react/static/css/main.55d38f3e.chunk.css",
+  "main.js": "/Vish05/starting-react/static/js/main.06bb7d47.chunk.js",
+  "main.js.map": "/Vish05/starting-react/static/js/main.06bb7d47.chunk.js.map",
+  "static/js/1.03ae7ea8.chunk.js": "/Vish05/starting-react/static/js/1.03ae7ea8.chunk.js",
+  "static/js/1.03ae7ea8.chunk.js.map": "/Vish05/starting-react/static/js/1.03ae7ea8.chunk.js.map",
+  "static/js/2.3a71f885.chunk.js": "/Vish05/starting-react/static/js/2.3a71f885.chunk.js",
+  "static/js/2.3a71f885.chunk.js.map": "/Vish05/starting-react/static/js/2.3a71f885.chunk.js.map",
+  "runtime~main.js": "/Vish05/starting-react/static/js/runtime~main.c8c59b42.js",
+  "runtime~main.js.map": "/Vish05/starting-react/static/js/runtime~main.c8c59b42.js.map",
+  "static/media/logo.svg": "/Vish05/starting-react/static/media/logo.06e73328.svg",
+  "static/css/main.55d38f3e.chunk.css.map": "/Vish05/starting-react/static/css/main.55d38f3e.chunk.css.map",
+  "index.html": "/Vish05/starting-react/index.html",
+  "precache-manifest.352f68713d3ec36284249bf430b798a9.js": "/Vish05/starting-react/precache-manifest.352f68713d3ec36284249bf430b798a9.js",
+  "service-worker.js": "/Vish05/starting-react/service-worker.js"
 }
